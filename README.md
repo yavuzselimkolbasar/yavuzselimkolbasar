@@ -9,6 +9,8 @@
 
 - 🌱 I’m currently learning **Python**
 
+- 👨‍💻 I got a Project in April 1st **Web Pzgame Project**
+
 - 📫 How to reach me **kolbasaryavuzselim@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
