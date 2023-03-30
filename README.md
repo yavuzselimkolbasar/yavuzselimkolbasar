@@ -2,12 +2,12 @@
 
 <h1 align="center">Hi, I'm Yavuz Selim Kolbasar</h1>
 <h3 align="center">A passionate Python Developer from Germany.</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
+<img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yavuzselimkolbasar&label=Profile%20views&color=0e75b6&style=flat" alt="yavuzselimkolbasar" /> </p>
 
-- 🌱 I’m currently learning **String**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **kolbasaryavuzselim@gmail.com**
 
