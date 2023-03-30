@@ -6,7 +6,7 @@
 
 <
 <
-<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 - 🌱 I’m currently learning **Python**
 
@@ -14,6 +14,9 @@
 
 - 📫 How to reach me **kolbasaryavuzselim@gmail.com
      and https://discord.gg/SGZP7VaUnN (Discord Server)**
+     
+<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
