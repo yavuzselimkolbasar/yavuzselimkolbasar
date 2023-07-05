@@ -13,8 +13,7 @@
 - 👨‍💻 I got a Project in April 1st **Web Pygame Project**
 
 - 📫 How to reach me **kolbasaryavuzselim@gmail.com
-     and https://discord.gg/SGZP7VaUnN (Discord Server)**
-     
+  **
 <
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
