@@ -12,9 +12,8 @@
 
 - 👨‍💻 I got a Project in April 1st **Web Pygame Project**
 
-- 📫 How to reach me **kolbasaryavuzselim@gmail.com
-  **
-<
+- 📫 How to reach me **kolbasaryavuzselim@gmail.com**
+
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <h3 align="left">Connect with me:</h3>
