@@ -1,4 +1,4 @@
-[![MasterHead]([https://tr.foursquare.com/v/docstoc-war-room/5237835711d2ebcbc10925ef](https://gfycat.com/ko/discover/black-code-gifs))](https://yavuzselimkolbasar.io)
+[![MasterHead]([[https://tr.foursquare.com/v/docstoc-war-room/5237835711d2ebcbc10925ef](https://gfycat.com/ko/discover/black-code-gifs)])](https://yavuzselimkolbasar.io)
 <h1 align="center">Hi, I'm Yavuz Selim</h1>
 <h3 align="center">A passionate new developer from Germany</h3>
 <img align="right" alt="Coding" width="400" src=https://giphy.com/explore/code>
