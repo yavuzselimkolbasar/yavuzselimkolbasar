@@ -1,11 +1,11 @@
 [![MasterHead](https://assets.objkt.media/file/assets-003/QmRZTDE7AvHfkYgfP1WCCAf1j1GeMRcrq3rCowaHFNNmSQ/artifact)]([https://github.com/yavuzselimkolbasar/yavuzselimkolbasar])
 <h1 align="center">Hi, I'm Yavuz Selim</h1>
 <h3 align="center">A passionate new developer from Germany</h3>
-<img align="right" alt="Coding" width="400" src=https://fastly.4sqi.net/img/general/600x600/2409748_FdapwTZz_rjTgseJ487fc4dAzV5ZDHY_Kp8y--_Nrow.gif>
+<img align="right" alt="Coding" width="400" src=https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWJocWMwMDUyemhyamY5a25yd3N4N3Jpa2NzY2F2dDlqNm5rMzNzMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1lvotGQwhzi6O0gQtV/giphy.gif>
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
-- 🔭 I’m currently working on **Nothing**
+- 🔭 I’m currently working on **Nothing** 
 
 - 🌱 I’m currently learning **HTML, CSS, BOOTSTRAP**
 
