@@ -1,7 +1,7 @@
 [![MasterHead](https://assets.objkt.media/file/assets-003/QmRZTDE7AvHfkYgfP1WCCAf1j1GeMRcrq3rCowaHFNNmSQ/artifact)]([https://github.com/yavuzselimkolbasar/yavuzselimkolbasar])
 <h1 align="center">Hi, I'm Yavuz Selim</h1>
 <h3 align="center">A passionate new developer from Germany</h3>
-<img align="right" alt="Coding" width="400" src=https://giphy.com/explore/code>
+<img align="right" alt="Coding" width="400" src=https://media1.giphy.com/media/1lvotGQwhzi6O0gQtV/giphy.gif?cid=6c09b95207hv70pgcpu1wnfnuxi2lwjx18nstbsksoiiui5q&ep=v1_gifs_search&rid=giphy.gif&ct=g>
 
 - 🔭 I’m currently working on **Nothing**
 
