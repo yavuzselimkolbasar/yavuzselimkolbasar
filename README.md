@@ -3,7 +3,7 @@
 <h3 align="center">A passionate new developer from Germany</h3>
 <img align="right" alt="Coding" width="400" src=https://fastly.4sqi.net/img/general/600x600/2409748_FdapwTZz_rjTgseJ487fc4dAzV5ZDHY_Kp8y--_Nrow.gif>
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 - 🔭 I’m currently working on **Nothing**
 
@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I´m Gamer**
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
