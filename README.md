@@ -1,7 +1,7 @@
 [![MasterHead](https://i.imgur.com/mtVyPBC.gif)]([https://github.com/yavuzselimkolbasar/yavuzselimkolbasar])
 <h1 align="center">Hi, I'm Yavuz Selim</h1>
 <h2 align="center">A passionate Full-Stack developer from Germany</h2>
-<img align="right" alt="Coding" width="400" src=https://media.tenor.com/mBJM-7JUpUUAAAAM/pepe-sad.gif>
+<img align="right" alt="Coding" width="400" src=https://media.tenor.com/TyhWL7gJwPgAAAAi/peppo-dance.gif>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
