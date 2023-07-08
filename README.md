@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **HTML and CSS**
 
-- 👨‍💻 I got a Project in Unkown **Unknown**
+- 👨‍💻 I got a Project in Unkown Time **Unknown Projet**
 
 - 📫 How to reach me **kolbasaryavuzselim@gmail.com**
 
