@@ -8,7 +8,7 @@
 <
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **HTML and CSS**
 
 - 👨‍💻 I got a Project in April 1st **Web Pygame Project**
 
