@@ -23,7 +23,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://github.com/yavuzselimkolbasar/yavuzselimkolbasar" target="_blank" rel="noreferrer">  <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg](https://en.wikipedia.org/wiki/HTML5)" alt="html" width="40" height="40"/> </a> </p>
 
 
 
