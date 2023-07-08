@@ -1,7 +1,7 @@
 [![MasterHead](https://art.ngfiles.com/images/2081000/2081568_death312_bendy-gif.gif?f1631956123)]([https://github.com/yavuzselimkolbasar/yavuzselimkolbasar])
 <h1 align="center">Hi, I'm Yavuz Selim</h1>
 <h3 align="center">A passionate new developer from Germany</h3>
-<img align="right" alt="Coding" width="400" src=https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWJocWMwMDUyemhyamY5a25yd3N4N3Jpa2NzY2F2dDlqNm5rMzNzMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1lvotGQwhzi6O0gQtV/giphy.gif>
+<img align="right" alt="Coding" width="400" src=https://fastly.4sqi.net/img/general/600x600/2409748_FdapwTZz_rjTgseJ487fc4dAzV5ZDHY_Kp8y--_Nrow.gif>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
