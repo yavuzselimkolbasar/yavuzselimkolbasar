@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **HTML and CSS**
 
-- 👨‍💻 I got a Project in April 1st **Web Pygame Project**
+- 👨‍💻 I got a Project in Unkown **Unknown**
 
 - 📫 How to reach me **kolbasaryavuzselim@gmail.com**
 
