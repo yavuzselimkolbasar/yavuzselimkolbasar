@@ -1,7 +1,7 @@
 [![MasterHead](https://i.imgur.com/mtVyPBC.gif)]([https://github.com/yavuzselimkolbasar/yavuzselimkolbasar])
 <h1 align="center">Hi, I'm Yavuz Selim</h1>
 <h2 align="center">A passionate Full-Stack developer from Germany</h2>
-<img align="right" alt="Coding" width="400" src=https://i.gifer.com/Roiv.gif>
+<img align="right" alt="Coding" width="400" src=https://i.redd.it/zm4777gewvs61.gif>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
