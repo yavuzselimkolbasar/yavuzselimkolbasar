@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Nothing** 
 
-- 🌱 I Will learn **JavaScript**
+- 🌱 I will learn **JavaScript**
 
 - 📫 How to reach me **kolbasaryavuzselim@gmail.com**
 
