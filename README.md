@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Nothing** 
 
-- 🌱 I’m currently learning **HTML, CSS, BOOTSTRAP**
+- 🌱 I Will learn **JavaScript**
 
 - 📫 How to reach me **kolbasaryavuzselim@gmail.com**
 
