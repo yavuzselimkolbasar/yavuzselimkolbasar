@@ -9,8 +9,6 @@
 
 - 🌱 I will learn **JavaScript**
 
-- 📫 How to reach me **kolbasaryavuzselim@gmail.com**
-
 - ⚡ Fun fact **I´m Gamer**
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<
