@@ -1,4 +1,4 @@
-[![MasterHead](https://c.tenor.com/XgAG1LXjpcYAAAAd/apartamento-qualquer-banner-banner.gif)](https://yavuzselimkolbasar.io)
+<center>[![MasterHead](https://c.tenor.com/XgAG1LXjpcYAAAAd/apartamento-qualquer-banner-banner.gif)](https://yavuzselimkolbasar.io)</center>
 
 <h1 align="center">Hi, I'm Yavuz Selim Kolbasar</h1>
 <h3 align="center">Tech Lover from Germany.</h3>
