@@ -1,5 +1,7 @@
 <div align="center">
-  [![MasterHead](https://c.tenor.com/XgAG1LXjpcYAAAAd/apartamento-qualquer-banner-banner.gif)](https://yavuzselimkolbasar.io)
+  <a href="https://yavuzselimkolbasar.io">
+    <img src="https://c.tenor.com/XgAG1LXjpcYAAAAd/apartamento-qualquer-banner-banner.gif" alt="MasterHead">
+  </a>
 </div>
 
 <h1 align="center">Hi, I'm Yavuz Selim Kolbasar</h1>
