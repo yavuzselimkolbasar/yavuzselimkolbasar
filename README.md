@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm Yavuz Selim Kolbasar</h1>
 <h3 align="center">Tech Lover from Germany.</h3>
-<img align="right" alt="Coding" width="350" src="https://c.tenor.com/XgAG1LXjpcYAAAAd/apartamento-qualquer-banner-banner.gif">
+<img align="right" alt="Coding" width="350" src="https://adeels.ca/assets/images/github.gif">
 
 <
 <
