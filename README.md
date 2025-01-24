@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **HTML and CSS**
 
-- 👨‍💻 I got a Project in 2025 Time **WRO-2025**
+- 👨‍💻 I got a Project for 2025 **WRO-2025 Senior**
 
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
