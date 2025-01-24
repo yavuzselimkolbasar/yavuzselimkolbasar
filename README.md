@@ -22,3 +22,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></p>
 <p align="left"><a href="https://github.com/yavuzselimkolbasar/yavuzselimkolbasar" target="_blank" rel="noreferrer"><img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/python[...]</a></p>
+<p align="left"><a href="https://github.com/yavuzselimkolbasar/yavuzselimkolbasar" target="_blank" rel="noreferrer"><img src="[https://logos-download.com/wp-content/uploads/2017/07/HTML5_logo.png[...]</a></p>https://logodownload.org/wp-content/uploads/2017/04/css-3-logo.png
+<p align="left"><a href="https://github.com/yavuzselimkolbasar/yavuzselimkolbasar" target="_blank" rel="noreferrer"><img src="[https://logos-download.com/wp-content/uploads/2017/07/HTML5_logo.png[...]</a></p>
+<p><img src="https://logodownload.org/wp-content/uploads/2017/04/css-3-logo.png" alt="CSS" width="40" height="40"/></p>
