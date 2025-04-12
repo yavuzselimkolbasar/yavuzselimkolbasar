@@ -7,8 +7,7 @@
 <h1 align="center">Hi, I'm Yavuz Selim Kolbasar</h1>
 <h3 align="center">Tech Lover from Germany.</h3>
 <p align=center> <img src=https://komarev.com/ghpvc/?username=yavuzselimkolbasar alt=yavuzselimkolbasar /> </p>
-<a href="https://github.com/yavuzselimkolbasar">
-         <img alt="followers" title="Github" src="https://custom-icon-badges.demolab.com/github/yavuzselimkolbasar?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+
 ##
 
 <img align="right" alt="Coding" width="400" src="https://adeels.ca/assets/images/github.gif">
