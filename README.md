@@ -39,3 +39,9 @@
   <img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" 
        style="margin: 10px;" />
 </div>
+
+### 📊 Stats
+
+![Yavuz Selim's GitHub stats](https://github-readme-stats.vercel.app/api?username=yavuzselimkolbasar&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
