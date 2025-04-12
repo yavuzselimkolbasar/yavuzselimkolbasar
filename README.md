@@ -6,7 +6,6 @@
 
 <h1 align="center">Hi, I'm Yavuz Selim Kolbasar</h1>
 <h3 align="center">Tech Lover from Germany.</h3>
-[![Github Badge](https://img.shields.io/badge/-yavuzselimkolbasar-grey?style=flat&logo=github&logoColor=white&link=https://github.com/yavuzselimkolbasar/)](https://www.github.com/yavuzselimkolbasar/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://yavuzselimkolbasar.com/)](https://yavuzselimkolbasar.com/) <p align='left'></p>
 <p align=center> <img src=https://komarev.com/ghpvc/?username=yavuzselimkolbasar alt=yavuzselimkolbasar /> </p>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=yavuzselimkolbasar&show_icons=true&include_all_commits=true)](https://github.com/yavuzselimkolbasar/github-readme-stats)
