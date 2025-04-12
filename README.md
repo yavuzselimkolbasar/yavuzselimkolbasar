@@ -42,4 +42,5 @@
 
 ### 📊 Stats
 
-![Yavuz Selim's GitHub stats](https://github-readme-stats.vercel.app/api?username=yavuzselimkolbasar&show_icons=true&theme=gruvbox)
+<img src="https://github-readme-stats.vercel.app/api?username=yavuzselimkolbasar&show_icons=true&theme=gruvbox" alt="Yavuz Selim's GitHub stats" width="400">
+
