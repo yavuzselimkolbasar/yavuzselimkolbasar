@@ -27,8 +27,7 @@
 <div align="left">
   <h3>🧰 Languages and Tools</h3>
 </div>
-->
-<div align="center">
+<div align="leftr">
   <img alt="Linux" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" 
        style="margin: 10px;" />
   <img alt="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" 
@@ -37,11 +36,4 @@
        style="margin: 10px;" />
   <img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" 
        style="margin: 10px;" />
-</div>
-<!-- Profile Views & Website Badges (Centered, Side by Side) -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yavuzselimkolbasar&style=for-the-badge" alt="Profile Views"/>
-  <a href="https://yavuzselimkolbasar.com">
-    <img src="https://img.shields.io/badge/Visit-My%20Website-blue?style=for-the-badge" alt="Visit My Website"/>
-  </a>
 </div>
