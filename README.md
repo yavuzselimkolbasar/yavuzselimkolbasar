@@ -9,7 +9,7 @@
 <p align=center> <img src=https://komarev.com/ghpvc/?username=yavuzselimkolbasar alt=yavuzselimkolbasar /> </p>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=yavuzselimkolbasar&show_icons=true&include_all_commits=true)](https://github.com/yavuzselimkolbasar/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yavuzselimkolbasar&layout=compact)](https://github.com/yavuzselimkolbasar/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yavuzselimkolbasar&layout=dark)](https://github.com/yavuzselimkolbasar/github-readme-stats)
 
 ## Some of my Github Stats
 
