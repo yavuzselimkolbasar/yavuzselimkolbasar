@@ -11,13 +11,12 @@
 [![Visit My Website](https://img.shields.io/badge/Visit-My%20Website-blue?style=for-the-badge)](https://yavuzselimkolbasar.com)
 
 ---
-
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <img align="right" alt="Coding" width="400" src="https://adeels.ca/assets/images/github.gif">
 
-<h2>- 🌱 I’m currently learning **PyBrıcks**</h2>
-<h2>- 👨‍💻 I got a Project for 2025: **WRO-2025 Senior**</h2>
-
----
+<h2>- 🌱 I’m currently learning PyBrıcks</h2>
+<h2>- 👨‍💻 I got a Project for 2025: WRO-2025 Senior</h2>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
