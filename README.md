@@ -8,7 +8,7 @@
 <h3 align="center">Tech Lover from Germany.</h3>
 <p align=center> <img src=https://komarev.com/ghpvc/?username=yavuzselimkolbasar alt=yavuzselimkolbasar /> </p>
 
-####
+###
 ##
 
 <img align="right" alt="Coding" width="400" src="https://adeels.ca/assets/images/github.gif">
