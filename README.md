@@ -1,31 +1,47 @@
 <div align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=yavuzselimkolbasar&style=for-the-badge)
-  <br>
-  [![Visit My Website](https://img.shields.io/badge/Visit-My%20Website-blue?style=for-the-badge)](https://yavuzselimkolbasar.com)
+  <a href="https://yavuzselimkolbasar.io">
+    <img src="https://c.tenor.com/XgAG1LXjpcYAAAAd/apartamento-qualquer-banner-banner.gif" alt="MasterHead">
+  </a>
 </div>
 
-<!-- Spacer -->
-<br>
-
-<!-- Learning & Project Info as H2 (Centered) -->
-<h2 align="center">🌱 I’m currently learning <strong>PyBrıcks</strong></h2>
-<h2 align="center">👨‍💻 I got a Project for 2025: <strong>WRO-2025 Senior</strong></h2>
-
-<!-- The rest stays the same -->
+<h1 align="center">Hi, I'm Yavuz Selim Kolbasar</h1>
+<h3 align="center">Tech Lover from Germany.</h3>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=yavuzselimkolbasar&style=for-the-badge" alt="Profile Views"/>
+  <a href="https://yavuzselimkolbasar.com">
+    <img src="https://img.shields.io/badge/Visit-My%20Website-blue?style=for-the-badge" alt="Visit My Website"/>
+  </a>
+</div>
 
 <img align="right" alt="Coding" width="400" src="https://adeels.ca/assets/images/github.gif">
 
-<!-- Your original separators (if you still need them, otherwise you can remove) -->
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
-<!-- Languages and Tools: Increase icon size to 40px, keep left aligned -->
-### 🧰 Languages and Tools
+- :seedling: I’m currently learning **HTML and CSS**
 
-<img align="left" alt="Linux" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="HTML" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<br>
-<br>
+- :man_technologist: I got a Project for 2025 **WRO-2025 Senior**
+
+
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-<br>
+
+<div align="left">
+  <h3>🧰 Languages and Tools</h3>
+</div>
+->
+<div align="center">
+  <img alt="Linux" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" 
+       style="margin: 10px;" />
+  <img alt="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" 
+       style="margin: 10px;" />
+  <img alt="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" 
+       style="margin: 10px;" />
+  <img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" 
+       style="margin: 10px;" />
+</div>
+<!-- Profile Views & Website Badges (Centered, Side by Side) -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=yavuzselimkolbasar&style=for-the-badge" alt="Profile Views"/>
+  <a href="https://yavuzselimkolbasar.com">
+    <img src="https://img.shields.io/badge/Visit-My%20Website-blue?style=for-the-badge" alt="Visit My Website"/>
+  </a>
+</div>
