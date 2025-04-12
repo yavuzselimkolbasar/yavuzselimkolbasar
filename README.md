@@ -6,7 +6,7 @@
 
 <h1 align="center">Hi, I'm Yavuz Selim Kolbasar</h1>
 <h3 align="center">Tech Lover from Germany.</h3>
-[![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge)
 [![Visit My Website](https://img.shields.io/badge/Visit-My%20Website-blue?style=for-the-badge)](https://yavuzselimkolbasar.com)
 
 
