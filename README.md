@@ -7,9 +7,9 @@
 <h1 align="center">Hi, I'm Yavuz Selim Kolbasar</h1>
 <h3 align="center">Tech Lover from Germany.</h3>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yavuzselimkolbasar&style=for-the-badge&color=green" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=yavuzselimkolbasar&style=for-the-badge&color=grey" alt="Profile Views"/>
   <a href="https://yavuzselimkolbasar.com">
-    <img src="https://img.shields.io/badge/Visit-My%20Website-blue?style=for-the-badge" alt="Visit My Website"/>
+    <img src="https://img.shields.io/badge/Visit-My%20Website-blue?style=for-the-badge&color=black" alt="Visit My Website"/>
   </a>
 </div>
 
