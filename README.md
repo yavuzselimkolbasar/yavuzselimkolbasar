@@ -16,6 +16,8 @@
 
 - 🌱 I’m currently learning PyBrıcks
 - 👨‍💻 I got a Project for 2025: WRO-2025 Senior
+
+  
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
   
 ### 🧰 Languages and Tools
