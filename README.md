@@ -12,7 +12,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yavuzselimkolbasar&layout=compact)](https://github.com/yavuzselimkolbasar/github-readme-stats)
 
 ## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=yavuzselimkolbasar alt=yavuzselimkolbasar /> </p>
 
 <img align="right" alt="Coding" width="400" src="https://adeels.ca/assets/images/github.gif">
 
