@@ -7,6 +7,9 @@
 <h1 align="center">Hi, I'm Yavuz Selim Kolbasar</h1>
 <h3 align="center">Tech Lover from Germany.</h3>
 [![Github Badge](https://img.shields.io/badge/-yavuzselimkolbasar-grey?style=flat&logo=github&logoColor=white&link=https://github.com/yavuzselimkolbasar/)](https://www.github.com/yavuzselimkolbasar/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://yavuzselimkolbasar.com/)](https://yavuzselimkolbasar.com/) <p align='left'>Loves Tech</p>
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=yavuzselimkolbasar alt=yavuzselimkolbasar /> </p>
+
 <img align="right" alt="Coding" width="400" src="https://adeels.ca/assets/images/github.gif">
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
@@ -20,7 +23,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-## Hey 👋, This is Yavuz Selim Kolbasar
 [![Github Badge](https://img.shields.io/badge/-yavuzselimkolbasar-grey?style=flat&logo=github&logoColor=white&link=https://github.com/yavuzselimkolbasar/)](https://www.github.com/yavuzselimkolbasar/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://yavuzselimkolbasar.com/)](https://yavuzselimkolbasar.com/) <p align='left'>Loves Tech</p>
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=yavuzselimkolbasar alt=yavuzselimkolbasar /> </p>
