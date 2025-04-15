@@ -19,7 +19,7 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
-- :seedling: I’m currently learning **HTML and CSS**
+- :seedling: I’m currently learning **Pybricks**
 
 - :man_technologist: I got a Project for 2025 **WRO-2025 Senior**
 
