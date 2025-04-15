@@ -15,7 +15,7 @@
 
 #
 
-<img align="right" alt="Coding" width="400" src="https://adeels.ca/assets/images/github.gif">
+<img align="right" alt="Coding" width="400" src="https://adeels.ca/assets/images/github.gif](https://media1.tenor.com/m/y-cCxl8uEw0AAAAC/yetopen.gif">
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
