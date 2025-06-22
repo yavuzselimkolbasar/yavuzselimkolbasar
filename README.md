@@ -19,9 +19,9 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
-- :seedling: I’m currently learning **Pybricks**
+- :seedling: I’m currently learning **Flutter**
 
-- :man_technologist: I got a Project for 2025 **WRO-2025 Senior**
+- :man_technologist: I got a Project for 2025 **PrayerMate**
 
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
