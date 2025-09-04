@@ -19,9 +19,9 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
-- :seedling: I’m currently learning **Flutter**
+- :seedling: I’m currently learning **Rust**
 
-- :man_technologist: I got a Project for 2025 **PrayerMate**
+- :man_technologist: I got a Project for 2025 **Artermis-Desktop**
 
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
