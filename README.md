@@ -19,7 +19,7 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
-- :seedling: I’m currently learning **Rust**
+- :seedling: I’m currently learning **C++**
 
 - :man_technologist: I got a Project for 2025 **Artermis-Desktop**
 
