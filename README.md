@@ -17,13 +17,14 @@
 
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/y-cCxl8uEw0AAAAC/yetopen.gif">
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+---
 
 - :seedling: I’m currently learning **Rust**
 
 <!-- - :man_technologist: I got a Project for 2025 **Artermis-Desktop** -->
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+---
+
 
 <div align="left">
   <h3>🧰 Languages and Tools</h3>
