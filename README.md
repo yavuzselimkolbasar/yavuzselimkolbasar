@@ -24,7 +24,6 @@
 <!-- - :man_technologist: I got a Project for 2025 **Artermis-Desktop** -->
 
 ---
----
 
 
 <div align="left">
