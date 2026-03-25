@@ -37,6 +37,8 @@
        style="margin: 10px;" />
   <img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" 
        style="margin: 10px;" />
+    <img alt="Nix" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/nixos/nixos-original.svg" 
+       style="margin: 10px;" />
 </div>
 
 ### 📊 Stats
